@@ -1,0 +1,2 @@
+Binary search is splitting the list into half and compare the middle number with the number which we want to search. If the middle number is less than the number which we are searching for, then we perform the same operation on the right side of the middle number.
+For any list of n, the simple search will take n steps whereas the binary search will take log2 n steps. Binary search only works when the list is sorted.   
