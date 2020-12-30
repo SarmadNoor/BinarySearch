@@ -6,7 +6,7 @@ namespace BinarySearch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the Binary search");
+            Console.WriteLine("Please enter the number to search");
             int numberToBeSearched = int.Parse(Console.ReadLine());
             int[] sortedInput = { 1, 2, 3, 4, 5, 6, 7, 8, 9};
             int startIndex = 0;
